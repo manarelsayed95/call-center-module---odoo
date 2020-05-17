@@ -1,0 +1,4 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_call_center_call_center,call_center.call_center,model_call_center_calls,base.group_user,1,1,1,1
+access_call_center_station,call_center.station,model_call_center_station,base.group_user,1,1,1,1
+access_call_center_tags,call_center.tags,model_call_center_tags,base.group_user,1,1,1,1
